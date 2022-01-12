@@ -1,4 +1,4 @@
-Classification-in-cells
+Cells Classification
 ---
 * Using CNN for cells classification. 
 * More details are in the report. 
