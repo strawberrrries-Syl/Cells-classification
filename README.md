@@ -1,5 +1,7 @@
 Classification-in-cells
 ---
-Using CNN for cells classification. Details see report.
+* Using CNN for cells classification. 
+* More details are in the report. 
+* mfiles are several image processing functions(in MATLAB).
 
-*dataset are too big to upload
+* dataset are too big to upload
