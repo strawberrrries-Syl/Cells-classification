@@ -1,4 +1,4 @@
-# Cells Classification
+# Cells Classification  `python`
 
 ## Introduction:
 
@@ -24,3 +24,14 @@ In this project, the final performance of the deep learning network is evaluated
 
 * You can find every image processing code in fold mfile
 * Test result and more method details are in the report.pdf
+
+
+## Bibliography
+
+    [1] P. Salehi and A. Chalechale, "Pix2Pix-based Stain-to-Stain Translation: A Solution for Robust Stain Normalization in Histopathology Images Analysis," 2020 International Conference on Machine Vision and Image Processing (MVIP), 2020, pp. 1-7, doi: 10.1109/MVIP49855.2020.9116895.
+
+    [2] Samira Masoudi, Stephanie A. A. Harmon, Sherif Mehralivand, Stephanie M. Walker, Harish Raviprakash, Ulas Bagci, Peter L. Choyke, Baris Turkbey, "Quick guide on radiology image pre-processing for deep learning applications in prostate cancer research," J. Med. Imag. 8(1) 010901 (6 January 2021) https://doi.org/10.1117/1.JMI.8.1.010901
+
+    [3] Shorten, C., Khoshgoftaar, T.M. A survey on Image Data Augmentation for Deep Learning. J Big Data 6, 60 (2019). https://doi.org/10.1186/s40537-019-0197-0
+
+    [4] Dua D, Karra TE. UCI machine learning repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science; 2017
